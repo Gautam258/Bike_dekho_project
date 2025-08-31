@@ -11,7 +11,9 @@ The final dashboard provides actionable insights into **how factors like age, ge
 ## 📊 Dashboard Preview
 Here is the final interactive dashboard built in Excel:
 
-![Bike Purchase Dashboard](visuals/final_dashboard.png)
+<img width="543" height="287" alt="Dashboard_ Photo" src="https://github.com/user-attachments/assets/9377bc1b-6f4d-4049-82e9-ca8e47b5a042" />
+
+
 
 ---
 
